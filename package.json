@@ -25,8 +25,8 @@
     "mapbox-gl": "^0.50.0",
     "openzeppelin-solidity": "^2.3.0",
     "react-toastify": "^5.3.1",
-    "sinon": "^7.1.0",
-    "truffle": "5.0.17",
+    "sinon": "^21.0.1",
+    "truffle": "5.11.5",
     "truffle-assertions": "^0.9.1",
     "truffle-hdwallet-provider": "1.0.10",
     "truffle-test-utils": "^0.1.0"
